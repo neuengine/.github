@@ -1,0 +1,14 @@
+# IDEs
+.vscode/
+.idea/
+
+# Dotenv files
+.env*
+!.env.example
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
